@@ -1,6 +1,6 @@
 ---
 galaxy_info:
-  role_name: b3.mysql_server
+  role_name: acme.mysql_server
   author: Leonardo Giraldi Moreno Giuranno
   description: Instalacao e Configuracao do servidor MySQL
   company: B3 - Brasil, Bolsa e Balcão
